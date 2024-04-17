@@ -31,7 +31,7 @@
 	- Cài đặt các gói package: ``npm install ``
 
 - Cài đặt MongoDb
-	- Tải MongoDb Compact: <a  href="[Download MongoDB Community Server | MongoDB](https://www.mongodb.com/try/download/community)">Cài đặt</a>
+	- Tải MongoDb Compact: <a  href="https://www.mongodb.com/try/download/community">Cài đặt</a>
 
 ## Hướng dẫn chạy ứng dụng
 - Chạy Mobile App: 
