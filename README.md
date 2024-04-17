@@ -43,7 +43,7 @@
 ## Tài khoản
 - Tạo tài khoản mới bằng cách mở ứng dụng lên và đăng kí
 - Hoặc có thể sử dụng api sau để đăng kí sản phẩm:
-	- /api/users/register
+	- POST /api/users/register
 	- body:
 	``{ "username":  "username", "email":  "email", "password":  "password" }``
 
