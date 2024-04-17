@@ -45,5 +45,5 @@
 - Hoặc có thể sử dụng api sau để đăng kí sản phẩm:
 	- /api/users/register
 	- body:
-	``{ "username":  "username", "email":  "email", "password":  "password" 	  }``
+	``{ "username":  "username", "email":  "email", "password":  "password" }``
 
